@@ -1,3 +1,5 @@
+*Codechef Sample APP*
+
 This is a minimal baisc app which implments codechef oauth and makes an API request. 
 
 To run the app, simply:
